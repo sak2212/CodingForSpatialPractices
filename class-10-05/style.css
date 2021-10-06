@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
     
+/* styling starts here*/
+
 html, body {
     height: 100%;
 }
@@ -12,6 +14,7 @@ html, body {
 .container {
     background-color: lemonchiffon;
     height: 100%;
+    color:floralwhite;
 }
 
 header {
@@ -28,3 +31,20 @@ main {
     height: 60%;
     background-color: cornsilk;
 }
+
+aside {
+    width: 20%;
+    background-color: darkkhaki;
+    display: inline-block;
+    float: left;
+    height: 100%;
+}
+
+section {
+    width: 60%;
+    background-color:deeppink;
+    display: inline-block;
+    float: left;
+    height: 100%; 
+}
+
