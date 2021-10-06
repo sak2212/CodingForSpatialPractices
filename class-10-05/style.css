@@ -42,7 +42,7 @@ aside {
 
 section {
     width: 60%;
-    background-color:deeppink;
+    background-color:rgb(255, 131, 197);
     display: inline-block;
     float: left;
     height: 100%; 
