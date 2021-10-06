@@ -13,3 +13,18 @@ html, body {
     background-color: lemonchiffon;
     height: 100%;
 }
+
+header {
+    height: 20%;
+    background-color: burlywood;
+}
+
+nav, footer {
+    height: 10%;
+    background-color: chocolate;
+}
+
+main {
+    height: 60%;
+    background-color: cornsilk;
+}
