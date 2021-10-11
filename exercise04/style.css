@@ -1,5 +1,5 @@
 /* this is a the reset to remove html element styling */
-*{
+//*{
     margin: 0;
     padding: 20;
     box-sizing: border-box;
@@ -21,6 +21,7 @@ h1 {
     text-align: center;
     text-decoration: underline;
     font-style: normal;
+    color: black;
 }
 
 h3 {
@@ -32,20 +33,22 @@ header {
 }
 
 section {
+    height: 80%;
     width: 50%;
     display: flex;
     justify-content: space-evenly;
-    height: 80%;
-    top right bottom left
-    padding: 10px 15px 10px 15px;
 }
 
 .english {
     background-color:ivory;
-    color:darkcyan;
+    color:darkcyan;    
+    top right bottom left
+    padding: 10px 15px 10px 15px;
 }
 
 .port {
     background-color: lavenderblush;
     color:darkred;
+    top right bottom left
+    padding: 10px 15px 10px 15px;
 }
