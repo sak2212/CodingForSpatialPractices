@@ -12,7 +12,7 @@ html, body {
     font-family: monospace;
 }
 
-section {
+article {
     font-style: oblique;
 }
 
@@ -26,21 +26,19 @@ h1 {
 h3 {
     text-align: center;
 }
-
-.english {
-    background-color:ivory;
-    color:darkcyan;
+section {
     width: 50%;
     display: inline-block;
     float: left;
     height: 100%;
 }
 
+.english {
+    background-color:ivory;
+    color:darkcyan;
+}
+
 .port {
     background-color: lavenderblush;
     color:darkred;
-    width: 50%;
-    display: inline-block;
-    float: left;
-    height: 100%;
 }
