@@ -10,6 +10,7 @@
 html, body {
     height: 100%;
     font-family: monospace;
+    font-style: normal;
 }
 
 h1 {
@@ -24,21 +25,13 @@ h3 {
     text-align: center;
 }
 
-main {
-    font-style: normal;
-}
-
-article {
+.port-body {
     font-style: oblique;
 }
 
 header {
     height: 20%;
-}
-
-section {
-    height: 80%;
-    width: 50%;
+    width: 100%;
     display: flex;
     justify-content: space-evenly;
 }
@@ -46,6 +39,10 @@ section {
 .english {
     background-color:ivory;
     color:darkcyan;    
+    height: 80%;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
     top right bottom left
     padding: 10px 15px 10px 15px;
 }
@@ -53,6 +50,10 @@ section {
 .port {
     background-color: lavenderblush;
     color:darkred;
+    height: 80%;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
     top right bottom left
     padding: 10px 15px 10px 15px;
 }
