@@ -40,7 +40,6 @@ body {
     background-color:ivory;
     color:darkcyan;  
     margin: 10px;  
-    height: 80%;
     width: 50%;
     display: flex;
     justify-content: space-around;
@@ -51,7 +50,6 @@ body {
     background-color: lavenderblush;
     color:darkred;
     margin: 10px;
-    height: 80%;
     width: 50%;
     display: flex;
     justify-content: space-around;
