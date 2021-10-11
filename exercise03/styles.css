@@ -1,0 +1,21 @@
+body{
+    font-family: monospace;
+}
+
+h1 {
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    text-align: center;
+}
+
+.english {
+    color:darkcyan
+}
+
+.port {
+    color:darkred
+}
