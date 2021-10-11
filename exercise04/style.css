@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
     
-/* styling starts here*/
+/* text styling starts here*/
 
 html, body {
     height: 100%;
@@ -29,6 +29,8 @@ h3 {
     font-style: oblique;
 }
 
+/* layout styling starts here*/
+
 header {
     height: 20%;
     display: flex;
@@ -40,7 +42,8 @@ header {
     color:darkcyan;    
     height: 80%;
     width: 50%;
-    display: flex;
+    display: inline-block;
+    float: left;
     justify-content: space-evenly;
 }
 
@@ -49,6 +52,7 @@ header {
     color:darkred;
     height: 80%;
     width: 50%;
-    display: flex;
+    display: inline-block;
+    float: left;
     justify-content: space-evenly;
 }
