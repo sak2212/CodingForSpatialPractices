@@ -36,10 +36,6 @@ body {
     flex-direction: row;
 }
 
-header {
-    height: 20%;
-}
-
 .english {
     background-color:ivory;
     color:darkcyan;  
