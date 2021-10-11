@@ -39,6 +39,7 @@ body {
 .english {
     background-color:ivory;
     color:darkgoldenrod;  
+    height: 100%;
     width: 50%;
     display: flex;
     justify-content: space-around;
@@ -47,6 +48,7 @@ body {
 .port {
     background-color: lavenderblush;
     color:darkred;
+    height: 100%;
     width: 50%;
     display: flex;
     justify-content: space-around;
