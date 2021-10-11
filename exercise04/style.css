@@ -38,11 +38,10 @@ body {
 
 .english {
     background-color:ivory;
-    color:darkcyan;  
+    color:darkgoldenrod;  
     width: 50%;
     display: flex;
     justify-content: space-around;
-    align-items: stretch;
 }
 
 .port {
@@ -51,5 +50,4 @@ body {
     width: 50%;
     display: flex;
     justify-content: space-around;
-    align-items: stretch;
 }
