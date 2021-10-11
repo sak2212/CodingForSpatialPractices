@@ -15,15 +15,15 @@ html, body {
 
 h1 {
     text-transform: capitalize;
-    /* text-align: center; */
+    text-align: center; 
     text-decoration: underline;
     font-style: normal;
     color: black;
 }
 
-/* h3 {
+h3 {
     text-align: center;
-} */
+} 
 
 .port-body {
     font-style: oblique;
@@ -39,7 +39,6 @@ body {
 .english {
     background-color:ivory;
     color:darkcyan;  
-    margin: 10px;  
     width: 50%;
     display: flex;
     justify-content: space-around;
@@ -49,7 +48,6 @@ body {
 .port {
     background-color: lavenderblush;
     color:darkred;
-    margin: 10px;
     width: 50%;
     display: flex;
     justify-content: space-around;
