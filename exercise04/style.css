@@ -1,7 +1,7 @@
 /* this is a the reset to remove html element styling */
-//*{
+*{
     margin: 0;
-    padding: 20;
+    padding: 0;
     box-sizing: border-box;
 }
     
@@ -10,10 +10,6 @@
 html, body {
     height: 100%;
     font-family: monospace;
-}
-
-article {
-    font-style: oblique;
 }
 
 h1 {
@@ -26,6 +22,14 @@ h1 {
 
 h3 {
     text-align: center;
+}
+
+main {
+    font-style: normal;
+}
+
+article {
+    font-style: oblique;
 }
 
 header {
