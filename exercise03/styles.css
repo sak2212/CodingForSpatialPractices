@@ -2,6 +2,10 @@ body{
     font-family: monospace;
 }
 
+section {
+    font-style: oblique;
+}
+
 h1 {
     text-transform: capitalize;
     text-align: center;
@@ -21,6 +25,3 @@ h3 {
     color:darkred;
 }
 
-section {
-    font-style: oblique;
-}
