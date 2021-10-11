@@ -1,6 +1,6 @@
 /* this is a the reset to remove html element styling */
 *{
-    margin: 0;
+    margin: 20;
     padding: 0;
     box-sizing: border-box;
 }
@@ -10,7 +10,6 @@
 html, body {
     height: 100%;
     font-family: monospace;
-    background-color:ivory;
 }
 
 section {
@@ -29,6 +28,7 @@ h3 {
 }
 
 .english {
+    background-color:ivory;
     color:darkcyan;
     width: 50%;
     display: inline-block;
@@ -37,6 +37,7 @@ h3 {
 }
 
 .port {
+    background-color: lavenderblush;
     color:darkred;
     width: 50%;
     display: inline-block;
