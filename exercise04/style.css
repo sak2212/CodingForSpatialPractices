@@ -7,7 +7,7 @@
     
 /* styling starts here*/
 
-html, body {
+html {
     height: 100%;
     font-family: monospace;
     background-color:ivory;
@@ -29,9 +29,17 @@ h3 {
 }
 
 .english {
-    color:darkcyan
+    color:darkcyan;
+    width: 50%;
+    display: inline-block;
+    float: left;
+    height: 100%;
 }
 
 .port {
     color:darkred;
+    width: 50%;
+    display: inline-block;
+    float: left;
+    height: 100%;
 }
