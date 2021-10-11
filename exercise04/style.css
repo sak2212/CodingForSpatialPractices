@@ -1,0 +1,37 @@
+/* this is a the reset to remove html element styling */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+/* styling starts here*/
+
+html, body {
+    height: 100%;
+    font-family: monospace;
+    background-color:ivory;
+}
+
+section {
+    font-style: oblique;
+}
+
+h1 {
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+    font-style: normal;
+}
+
+h3 {
+    text-align: center;
+}
+
+.english {
+    color:darkcyan
+}
+
+.port {
+    color:darkred;
+}
