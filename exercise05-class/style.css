@@ -17,7 +17,13 @@ html, body {
 }
 
 @media (min-width: 450px) {
-    body {
+    .container {
         background: blanchedalmond;
+    }
+}
+
+@media (min-width: 800px) {
+    .container {
+        background: chocolate;
     }
 }
