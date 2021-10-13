@@ -33,7 +33,7 @@ h3 {
 
 body {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .english {
