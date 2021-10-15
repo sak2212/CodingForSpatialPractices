@@ -1,0 +1,33 @@
+/* this is a the reset to remove html element styling */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+/* text styling starts here*/
+
+html, body {
+    height: 100%;
+    font-family: monospace;
+    font-style: normal;
+}
+
+h1 {
+    text-transform: capitalize;
+    text-align: center; 
+    text-decoration: underline;
+    font-style: normal;
+    color: black;
+}
+
+h3 {
+    text-align: center;
+} 
+
+/* layout styling starts here */
+
+body {
+    display: flex;
+    flex-direction: column;
+}
