@@ -27,8 +27,9 @@ h3 {
 
 /* layout styling starts here */
 
-body {
+.container {
     display: flex;
+    height: 100%;
     flex-direction: column;
     justify-content: space-evenly;
 }
