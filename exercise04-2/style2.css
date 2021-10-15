@@ -38,7 +38,7 @@ h3 {
     background-color: blanchedalmond;
     height: 100%;
     width: 50%;
-    display: inline-flex;
+    display: inline-block;
     float: left;
 }
 
@@ -46,6 +46,6 @@ h3 {
     background-color:cornsilk;
     height: 100%;
     width: 50%;
-    display: inline-flex;
+    display: inline-block;
     float: left;
 }
