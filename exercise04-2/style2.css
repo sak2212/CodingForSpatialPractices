@@ -18,17 +18,20 @@ h1 {
     text-align: center; 
     text-decoration: underline;
     font-style: normal;
+    line-height: 1em;
     color: black;
 }
 
 h3 {
     text-align: center;
+    line-height: .5em;
 } 
 
 /* layout styling starts here */
 
 .container {
     display: flex;
+    padding: 15px 15px;
 }
 
 .english {
