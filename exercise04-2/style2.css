@@ -29,33 +29,37 @@ h3 {
 
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    /* add space between paragraphs */
-    /* fix apostrophe symbol? */
+    margin-bottom: 10px;
 }
 
-p.port {
-    font-style: italic; /*make portuguese paragraph text italic*/
+.port>p {
+    font-style: italic; 
 }
 
 /* layout styling starts here */
 
 .container {
     display: flex;
+    height: 100%;
 }
 
 .english {
     background-color: blanchedalmond;
     width: 50%;
-    height: 100%;
+    overflow:scroll;
     padding: 15px 15px;
     display: flex;
     flex-direction: column;
 }
 
+.english::-webkit-scrollbar:vertical {
+    width:60px;
+}
+
 .port {
     background-color:cornsilk;
     width: 50%;
-    height: 100%;
+    overflow:scroll;
     padding: 15px 15px;
     display: flex;
     flex-direction: column;
