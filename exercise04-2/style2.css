@@ -28,8 +28,9 @@ h3 {
 } 
 
 p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     /* add space between paragraphs */
-    /* fix symbol for ' (apostrophe) */
+    /* fix apostrophe symbol? */
 }
 
 p.port {
