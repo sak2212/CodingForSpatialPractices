@@ -38,14 +38,14 @@ h3 {
     background-color: blanchedalmond;
     height: 100%;
     width: 50%;
-    display: inline-block;
-    float: left;
+    display: flex;
+    flex-direction: column;
 }
 
 .port {
     background-color:cornsilk;
     height: 100%;
     width: 50%;
-    display: inline-block;
-    float: left;
+    display: flex;
+    flex-direction: column;
 }
