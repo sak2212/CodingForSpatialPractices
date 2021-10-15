@@ -18,16 +18,16 @@ h1 {
     text-align: center; 
     text-decoration: underline;
     font-style: normal;
-    line-height: 10;
+    line-height: 5;
     color: black;
 }
 
 h3 {
     text-align: center;
-    line-height: 2;
+    line-height: 2.5;
 } 
 
-.port {
+p.port {
     font-style: italic;
 }
 
