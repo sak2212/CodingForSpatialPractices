@@ -18,17 +18,22 @@ h1 {
     text-align: center; 
     text-decoration: underline;
     font-style: normal;
-    line-height: 5;
+    line-height: 4em;
     color: black;
 }
 
 h3 {
     text-align: center;
-    line-height: 2.5;
+    line-height: 2em;
 } 
 
+p {
+    /* add space between paragraphs */
+    /* fix symbol for ' (apostrophe) */
+}
+
 p.port {
-    font-style: italic;
+    font-style: italic; /*make portuguese paragraph text italic*/
 }
 
 /* layout styling starts here */
@@ -41,6 +46,7 @@ p.port {
     background-color: blanchedalmond;
     width: 50%;
     height: 100%;
+    padding: 15px 15px;
     display: flex;
     flex-direction: column;
 }
@@ -49,6 +55,7 @@ p.port {
     background-color:cornsilk;
     width: 50%;
     height: 100%;
+    padding: 15px 15px;
     display: flex;
     flex-direction: column;
 }
