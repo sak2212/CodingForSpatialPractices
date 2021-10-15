@@ -27,6 +27,10 @@ h3 {
     line-height: 2;
 } 
 
+.port {
+    font-style: italic;
+}
+
 /* layout styling starts here */
 
 .container {
