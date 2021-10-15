@@ -34,8 +34,18 @@ body {
 
 .english {
     background-color: blanchedalmond;
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
 }
 
 .port {
     background-color:cornsilk;
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
 }
