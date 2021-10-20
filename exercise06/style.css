@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body, html {
   font-family: 'Roboto', sans-serif;  
   height: 100%;
-  background-color: goldenrod;
 }
 
 nav {
@@ -17,6 +22,7 @@ ul.container {
    height: 100%;
    justify-content: space-around;
    align-items: center;
+   list-style: none;
 }
 
 /*items*/
