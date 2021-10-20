@@ -45,15 +45,15 @@ li:hover {
 
 @keyframes changeMe {
 0% {
-    background-color: blanchedalmond;
+    color: black;
 }
 33% {
-    background-color: goldenrod;
+    color: goldenrod;
 }
 66% {
-    background-color: goldenrod;
+    color: goldenrod;
 }
 100% {
-    background-color: blanchedalmond;
+    color: blanchedalmond;
 }
 }
