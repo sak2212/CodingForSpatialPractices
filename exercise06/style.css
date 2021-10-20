@@ -23,7 +23,6 @@ ul.container {
    justify-content: space-around;
    align-items: center;
    list-style: none;
-   line-height: 30px;
 }
 
 /*items*/
@@ -38,7 +37,7 @@ a {
 }
 
 /*animation*/
-li:hover {
+.li:hover {
     animation: changeMe 3s ease-in-out .2s;
   }
 
