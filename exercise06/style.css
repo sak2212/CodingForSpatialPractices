@@ -23,14 +23,13 @@ ul.container {
    justify-content: space-around;
    align-items: center;
    list-style: none;
+   line-height: 30px;
 }
 
 /*items*/
 li {
-  width: auto;
-  height: auto;
-  font-size: 20px;
   text-align: center;
+  padding: 0 30px;
 }
 
 a {
@@ -44,7 +43,7 @@ li:hover {
     animation: changeMe 3s ease-in-out .2s;
   }
 
-@keyframes changeMe
+@keyframes changeMe {
 0% {
     background-color: blanchedalmond;
 }
@@ -56,4 +55,5 @@ li:hover {
 }
 100% {
     background-color: blanchedalmond;
+}
 }
