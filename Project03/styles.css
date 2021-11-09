@@ -87,7 +87,7 @@ section {
 .grid-item1 {
     border:1px dashed whitesmoke;
     grid-column: 1/3;
-    grid-row: 1/3;
+    grid-row: 1/4;
 }
 
 .grid-item2 {
