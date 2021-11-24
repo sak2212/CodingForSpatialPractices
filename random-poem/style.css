@@ -2,6 +2,7 @@ button {
     background-color: antiquewhite;
     color:aqua;
     text-align: center;
+    line-height: 5em;
 }
 
 p {
