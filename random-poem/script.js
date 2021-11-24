@@ -10,7 +10,7 @@ let array_one = [
     "among round hills",
     "among snowy mountains",
     "by a dry stream",
-    "by an salt lake"
+    "by a salt lake"
   ];
 
   
