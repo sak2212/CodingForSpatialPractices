@@ -1,12 +1,11 @@
 button {
-    background-color: olivedrab;
+    background-color: black;
     color:aqua;
     text-align: center;
     line-height: 5em;
 }
 
 p {
-    font-size: 3em;
+    font-size: 2em;
     color: bisque;
-    background-color: blanchedalmond;
 }
