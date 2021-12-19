@@ -12,4 +12,5 @@ let adjective = adjectives[Math.floor(Math.random()*nouns.length)];
 
 let sentence = `My ${noun} ${verb} with its enemy the ${adjective} ${noun2}.`
 
-console.log(sentence);
+console.log(sentence)
+
